@@ -1,2 +1,6 @@
-# swamp_git
-Daily notes about what I program so that every cell of my github is green
+# Активности за 12.2024
+
+## 01.12.2024
+
+test_1
+
